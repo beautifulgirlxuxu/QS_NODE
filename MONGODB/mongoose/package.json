@@ -1,0 +1,16 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xuyanqing <804316947@qq.com> (https://github.com/beautifulgirlxuxu/yanqingxu.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "mongoose": "^5.0.10"
+  }
+}
